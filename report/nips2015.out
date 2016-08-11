@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Related Work}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Motivations and Objectives}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Machine Learning Techniques}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{K-Nearest Neighbors}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{RBF-kernel SVM}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Ensemble Methods}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Gaussian Naive Bayes}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.5}{Conditional Random Field}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Experiment and Evaluation}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Experiment}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Dataset and Data preprocessing}{subsection.3.1}% 12
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Implementation}{subsection.3.1}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Evaluation}{section.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Evaluation Metrics}{subsection.3.2}% 15
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Segment Selection}{subsection.3.2}% 16
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Feature Selection}{subsection.3.2}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Parameter Selection}{subsection.3.2}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Conditional Random Field}{subsection.3.2}% 19
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 20
